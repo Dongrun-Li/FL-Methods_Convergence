@@ -1,2 +1,2 @@
 # FedAvg_Convergence
-non-iid & all device participation
+non-iid & all devices participation
