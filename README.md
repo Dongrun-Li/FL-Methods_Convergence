@@ -1,2 +1,1 @@
-# FedAvg_Convergence
-non-iid & all devices participation
+# FL—Methods_Convergence
